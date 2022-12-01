@@ -5,7 +5,7 @@ Welcome to your OSINT Introduction Course. Here you will find all the materials 
 
 ## How to use
 In this repository you will find many directories. Each one is related to one course and contains all the materials necessary to follow it or retake a look at it. The files that you fill find are the following:
-- course.mp4: the course video
+- video_url.md: the link to the course video hosted on YouTube
 - slides.pptx: the slides in a powerpoint format
 - slides.pdf: the slides in a pdf format
 - transcript.md: the video transcript
